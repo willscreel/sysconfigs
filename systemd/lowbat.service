@@ -1,0 +1,9 @@
+[Unit]
+Description=Shuts down the system when the battery is critically low
+Wants=minute-timer.timer
+
+[Service]
+ExecStart=lowbat
+
+[Install]
+WantedBy=minute-timer.target

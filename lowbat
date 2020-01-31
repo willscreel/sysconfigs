@@ -1,0 +1,11 @@
+#!/bin/bash
+
+paste -d' ' /sys/class/power_supply/BAT0/status /sys/class/power_supply/BAT0/capacity | {
+	
+	read -r status capacity
+
+	if [ "$status" = Discharging -a "$capacity" -lt 11 ]; then
+		poweroff
+	fi
+
+}
