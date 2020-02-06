@@ -1,0 +1,55 @@
+#!/bin/bash
+
+sudo pacman -S \
+bash-completion \
+bluez-utils \
+cups \
+evince \
+exfat-utils \
+feh \
+file-roller \
+firefox \
+gimp \
+gnome-calculator \
+gnome-keyring \
+gsimplecal \
+gtk-engine-murrine \
+gvfs \
+handbrake \
+hplip \
+inkscape \
+inter-font \
+libreoffice-fresh \
+network-manager-applet \
+nextcloud-client \
+numlockx \
+papirus-icon-theme \
+pdfarranger \
+perl-rename \
+picom \
+pulseaudio-bluetooth \
+pulsemixer \
+qt5-styleplugins \
+rofi \
+rsync \
+scrot \
+simple-scan \
+smartmontools \
+stalonetray \
+stow \
+system-config-printer \
+thunar-archive-plugin \
+thunar-volman \
+tumbler \
+tmux \
+tree \
+ttf-hack \
+vlc \
+xautolock \
+xf86-video-intel \
+xfce4-notifyd \
+xfce4-settings \
+xfce4-terminal \
+xorg-server \
+xorg-xinit \
+xorg-xinput
