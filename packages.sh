@@ -19,7 +19,7 @@ handbrake \
 hplip \
 inkscape \
 inter-font \
-libreoffice-fresh \
+libreoffice-still \
 network-manager-applet \
 nextcloud-client \
 numlockx \
