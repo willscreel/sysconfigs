@@ -30,7 +30,6 @@ picom \
 pulseaudio-bluetooth \
 pulsemixer \
 qt5-styleplugins \
-rofi \
 rsync \
 scrot \
 simple-scan \
